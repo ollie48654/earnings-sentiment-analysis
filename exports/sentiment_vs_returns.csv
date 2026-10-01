@@ -1,0 +1,3 @@
+ticker,vader_compound,bert_compound,bert_positive,bert_negative,num_passages,company,earnings_date,price_on_day,price_3d_after,return_3d_pct,vader_sentiment,bert_sentiment,model_agree
+AAPL,0.9988,0.7662,0.7746,0.0084,3,Apple,2023-08-03,188.36,176.23,-6.4445,Positive,Positive,True
+INTC,0.9980749999999999,0.24434999999999998,0.25484999999999997,0.0105,12,Intel,2023-07-27,33.86,35.06,3.5311,Positive,Positive,True
